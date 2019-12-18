@@ -1,0 +1,7 @@
+*.class
+!Locals.class
+!OnePlusTwo.class
+!Part3.class
+!Part4.class
+!PrintOnePlusTwo.class
+*.txt
